@@ -33,7 +33,8 @@
     "form"
   ],
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test-coverage": "jest --coverage"
   },
   "devDependencies": {
     "crizmas-utils": "^1.0.0",
